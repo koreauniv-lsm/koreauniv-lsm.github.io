@@ -4,7 +4,7 @@ bio:                'Security Developer & Researcher'
 description:        "Hello, I am a master's student in the Department of Convergence Security (Samsung Advanced Security) at Korea University.After graduation, I am expected as a security developer or researcher member of Samsung SDS."
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/74C530CA-461B-41D6-8B01-7A96B8B3BA33_1_105_c.jpeg'
+logo:               'assets/img/Profile.png'
 background:         'assets/img/bg.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_KR
