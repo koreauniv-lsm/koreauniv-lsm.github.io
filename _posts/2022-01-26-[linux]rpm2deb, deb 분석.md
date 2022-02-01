@@ -1,6 +1,7 @@
 ---
 tags: linux 
 toc: True
+comments: true
 ---
 
 # rpm2deb: alien
