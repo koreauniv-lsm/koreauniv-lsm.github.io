@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 📣 About Me
+title: 📣 About Me 📣
 tags: [about, Jekyll, theme, moon]
 date: 2022-02-01
 comments: false
+toc: True
 ---    
 
 <center>
