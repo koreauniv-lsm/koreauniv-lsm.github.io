@@ -5,8 +5,8 @@ description:        "Out-Of-The-Black-Box"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/74C530CA-461B-41D6-8B01-7A96B8B3BA33_1_105_c.jpeg'
-background:         'assets/img/74C530CA-461B-41D6-8B01-7A96B8B3BA33_1_105_c.jpeg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/bg.jpeg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_KR
 url:                //koreauniv-lsm.github.io
 
