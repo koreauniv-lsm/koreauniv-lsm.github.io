@@ -12,11 +12,6 @@ After graduation, I am expected as a security developer or researcher member of 
 </center>              
 
 
-[![hitbox](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leesk212/Kwangwoon_univ_all) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://npsw.kw.ac.kr/site/portfolio_detail.php?idx=31&department=%EC%BB%B4%ED%93%A8%ED%84%B0%EC%A0%95%EB%B3%B4%EA%B3%B5%ED%95%99%EB%B6%80&scool_year=)  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
-
 
 <h2 align="left">⚡ Interests</h2>  
 
@@ -24,7 +19,7 @@ After graduation, I am expected as a security developer or researcher member of 
 > - A.I.
 > - Cloud Engineering
 
-## :books: Publication & Award
+## 📚 Publication & Award
 
 ### Conference
 #### Scopus
@@ -48,32 +43,8 @@ After graduation, I am expected as a security developer or researcher member of 
 * 제 5회 산학연계 SW 프로젝트 전시회 대상(총장상) (President's Award) (2021년 6월 / 시상기관: 광운대학교 SW중심대학사업단)
 * 2017 SW Challenge 1st (2017년 7월 / 시상기관: Kwangwoon & Kookmin University)
 
-<h2 align="left"> 🔭 Profile</h2>
 
-## 🌱  Skills
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</p>
-  
-##### Studying
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
  
-
-</div></details>
-
-
 ## 🌱  Projects
 
 > * 광운대학교 운동 동작 분류 AI 경진대회 
