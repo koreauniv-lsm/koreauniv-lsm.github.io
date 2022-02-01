@@ -5,11 +5,13 @@ description:        "Out-of-the-black-box"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/ay.jpg'
-background:         'assets/img/ac.jpg'
+background:         'assets/img/74C530CA-461B-41D6-8B01-7A96B8B3BA33_1_105_c.jpeg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_KR
 url:                //koreauniv-lsm.github.io
 
+
+#background:         'assets/img/ac.jpg'74C530CA-461B-41D6-8B01-7A96B8B3BA33_1_105_c.jpeg
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
